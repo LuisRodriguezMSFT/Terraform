@@ -1,3 +1,0 @@
-- This template creates two Vnets linked via Vnet peering. More info:
-- https://learn.microsoft.com/en-us/azure/virtual-network/virtual-network-peering-overview
-- https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/resources/virtual_network_peering
