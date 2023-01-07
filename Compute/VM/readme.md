@@ -1,1 +1,1 @@
-https://www.starwindsoftware.com/blog/azure-deploy-resources-with-terraform
+Please refer to: https://www.starwindsoftware.com/blog/azure-deploy-resources-with-terraform
