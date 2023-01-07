@@ -1,7 +1,3 @@
-=================================================
-BASED ON https://github.com/markti/azure-vpn-udmp
-=================================================
-
 # Overview
 This repository contains Terraform code that uses the `azurerm` provider to provision a Site-to-Site VPN connection with a Ubiquity Dream Machine Pro.
 
