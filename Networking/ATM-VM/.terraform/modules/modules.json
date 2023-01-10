@@ -1,1 +1,0 @@
-{"Modules":[{"Key":"first-virtual-machine","Source":"./modules/virtual-machine","Dir":"modules/virtual-machine"},{"Key":"second-virtual-machine","Source":"./modules/virtual-machine","Dir":"modules/virtual-machine"},{"Key":"virtual-network","Source":"./modules/virtual-network","Dir":"modules/virtual-network"},{"Key":"","Source":"","Dir":"."}]}
